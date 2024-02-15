@@ -60,7 +60,7 @@ div {
 
 
 
-
+            <img id="myImageId" style="border:10px solid black;" src="https://i.ibb.co/XS1GpXV/20240124-102506.jpg" width="250" height="300" class="center"/>
 
 
 
